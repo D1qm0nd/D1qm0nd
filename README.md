@@ -10,7 +10,7 @@ If you are also a developer with a similar stack and a desire to do something co
 ## Community
 # Telegram channel:
 <p align="center" width="100%">
-    <img alt="qr-code-telegram-channel.png" height="240px" src="Images/qr-code-telegram-channel.png" width="200px"/>
+    <img alt="qr-code-telegram-channel.png" href="https://t.me/LazyDotNetNotes" height="240px" src="Images/qr-code-telegram-channel.png" width="200px"/>
 </p>
 
 ## My Contacts
