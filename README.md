@@ -1,7 +1,7 @@
 ## Welcome to my profile👋
 
 My name is Max, I have been a developer since 2020, starting in 2022 I specialize in the .NET Core/ASP.NET Core platform. 
-On this Gidhub I post my libraries to facilitate coding on this platform, fork attractive projects in order to complement or create an alternative to them. Also here are my demo pet projects. 
+On this GitHub I post my libraries to facilitate coding on this platform, fork attractive projects in order to complement or create an alternative to them. Also here are my demo pet projects. 
 
 ## Collaboration
 
