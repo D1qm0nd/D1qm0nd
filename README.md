@@ -16,7 +16,5 @@ If you are also a developer with a similar stack and a desire to do something co
 ## My Contacts
 If you have suggestions for me you can find me here (Tap this icons):
 
-<img alt="logo-mail.png" href="d1qm0nd@internet.ru" height="50px" src="Images/logo-mail.png" width="50px"/>
-
-<img alt="logo-telegram.png" href="https://t.me/D1qmOnd" height="50px" src="Images/logo-telegram.png" width="50px"/>
+<img alt="logo-mail.png" href="d1qm0nd@internet.ru" height="50px" src="Images/logo-mail.png" width="50px"/> <img alt="logo-telegram.png" href="https://t.me/D1qmOnd" height="50px" src="Images/logo-telegram.png" width="50px"/>
 
