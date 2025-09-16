@@ -7,28 +7,16 @@ On this Gidhub I post my libraries to facilitate coding on this platform, fork a
 
 If you are also a developer with a similar stack and a desire to do something cool together, I am always open to collaboration.
 
+## Community
+# Telegmam channel:
+<p align="center" width="100%">
+    <img alt="qr-code-telegram-channel.png" height="240px" src="Images/qr-code-telegram-channel.png" width="200px"/>
+</p>
+
 ## My Contacts
-If you have suggestions for me you can find me here:
+If you have suggestions for me you can find me here (Tap this icons):
 
+<img alt="logo-mail.png" href="d1qm0nd@internet.ru" height="50px" src="Images/logo-mail.png" width="50px"/>
 
-e-mail: d1qm0nd@internet.ru
+<img alt="logo-telegram.png" href="https://t.me/D1qmOnd" height="50px" src="Images/logo-telegram.png" width="50px"/>
 
-
-telegram: https://t.me/D1qmOnd
-
-
-
-<!--
-**D1qm0nd/D1qm0nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
