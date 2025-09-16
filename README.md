@@ -1,6 +1,6 @@
-## Welcome to my profile👋
+## Hello, I am Max 👋
 
-My name is Max, I have been a developer since 2020, starting in 2022 I specialize in the .NET Core/ASP.NET Core platform. 
+I have been a developer since 2020, starting in 2022 I specialize in the .NET Core/ASP.NET Core platform. 
 On this GitHub I post my libraries to facilitate coding on this platform, fork attractive projects in order to complement or create an alternative to them. Also here are my demo pet projects. 
 
 ## Collaboration
