@@ -8,7 +8,7 @@ On this Gidhub I post my libraries to facilitate coding on this platform, fork a
 If you are also a developer with a similar stack and a desire to do something cool together, I am always open to collaboration.
 
 ## Community
-# Telegmam channel:
+# Telegram channel:
 <p align="center" width="100%">
     <img alt="qr-code-telegram-channel.png" height="240px" src="Images/qr-code-telegram-channel.png" width="200px"/>
 </p>
