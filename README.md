@@ -5,7 +5,7 @@
 ## About
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&size=30&duration=3000&pause=3000&color=8500F7&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Max+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&size=30&duration=3000&pause=3000&color=8500F7&center=false&vCenter=true&width=435&repeat=false&lines=Hello%2C+I+am+Max+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&weight=100&size=16&duration=3000&pause=100&color=9200FF&vCenter=true&multiline=true&repeat=false&width=800&height=140&lines=I+have+been+a+developer+since+2020.;Starting+in+2022+I+specialize+in+the+.NET+Core%2FASP.NET+Core+platform.++;On+this+GitHub+I+post+my+libraries+to+facilitate+coding+on+this+platform%2C+;fork+attractive+projects+in+order+to+complement+;or+create+an+alternative+to+them.;Also+here+are+my+demo+pet+projects.+)](https://git.io/typing-svg)
 
