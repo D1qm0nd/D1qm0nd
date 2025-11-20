@@ -10,10 +10,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&weight=100&size=16&duration=3000&pause=100&color=9200FF&vCenter=true&multiline=true&repeat=false&width=800&height=140&lines=I+have+been+a+developer+since+2020.;Starting+in+2022+I+specialize+in+the+.NET+Core%2FASP.NET+Core+platform.++;On+this+GitHub+I+post+my+libraries+to+facilitate+coding+on+this+platform%2C+;fork+attractive+projects+in+order+to+complement+;or+create+an+alternative+to+them.;Also+here+are+my+demo+pet+projects.+)](https://git.io/typing-svg)
 
 <picture>
-
-[//]: # (  <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">)
-
-[//]: # (  <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">)
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
 
