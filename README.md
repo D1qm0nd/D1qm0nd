@@ -21,8 +21,7 @@
 
 ## Community
 
-
-# Telegram channel:
+### Telegram channel:
 <a align="center" width="100%" href="https://t.me/LazyDotNetNotes"> 
     <img alt="qr-code-telegram-channel.png" height="240px" src="Images/qr-code-telegram-channel.png" width="200px"/>
 </a>
