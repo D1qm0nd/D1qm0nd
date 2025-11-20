@@ -14,7 +14,7 @@
 [//]: # (  <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">)
 
 [//]: # (  <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">)
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
 
 ## Collaboration
