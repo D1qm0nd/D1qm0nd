@@ -1,20 +1,45 @@
-## Hello, I am Max 👋
+![Bottom_up.svg](Images/Bottom_up.svg)
 
+
+
+## About
+
+---
+
+### Hello, I am Max 👋
 I have been a developer since 2020, starting in 2022 I specialize in the .NET Core/ASP.NET Core platform. 
 On this GitHub I post my libraries to facilitate coding on this platform, fork attractive projects in order to complement or create an alternative to them. Also here are my demo pet projects. 
 
+<picture>
+
+[//]: # (  <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">)
+
+[//]: # (  <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">)
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+</picture>
+
 ## Collaboration
+
+---
 
 If you are also a developer with a similar stack and a desire to do something cool together, I am always open to collaboration.
 
 ## Community
+
+---
+
 # Telegram channel:
 <a align="center" width="100%" href="https://t.me/LazyDotNetNotes"> 
     <img alt="qr-code-telegram-channel.png" height="240px" src="Images/qr-code-telegram-channel.png" width="200px"/>
 </a>
 
-## My Contacts
+
+## Contacts
+
+---
+
 If you have suggestions for me you can find me here (Tap this icons):
+
 <div>
     <a align="center" width="100%>
         <a href="d1qm0nd@internet.ru">
