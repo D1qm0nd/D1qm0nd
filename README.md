@@ -4,11 +4,10 @@
 
 ## About
 
----
 
-### Hello, I am Max 👋
-I have been a developer since 2020, starting in 2022 I specialize in the .NET Core/ASP.NET Core platform. 
-On this GitHub I post my libraries to facilitate coding on this platform, fork attractive projects in order to complement or create an alternative to them. Also here are my demo pet projects. 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&size=30&duration=3000&pause=3000&color=8500F7&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Max+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&weight=100&size=10&duration=3000&pause=100&color=9200FF&center=true&vCenter=true&multiline=true&repeat=false&width=450&height=100&lines=I+have+been+a+developer+since+2020.;Starting+in+2022+I+specialize+in+the+.NET+Core%2FASP.NET+Core+platform.++;On+this+GitHub+I+post+my+libraries+to+facilitate+coding+on+this+platform%2C+;fork+attractive+projects+in+order+to+complement+;or+create+an+alternative+to+them.;Also+here+are+my+demo+pet+projects.+)](https://git.io/typing-svg)
 
 <picture>
 
@@ -20,13 +19,11 @@ On this GitHub I post my libraries to facilitate coding on this platform, fork a
 
 ## Collaboration
 
----
 
 If you are also a developer with a similar stack and a desire to do something cool together, I am always open to collaboration.
 
 ## Community
 
----
 
 # Telegram channel:
 <a align="center" width="100%" href="https://t.me/LazyDotNetNotes"> 
@@ -36,7 +33,6 @@ If you are also a developer with a similar stack and a desire to do something co
 
 ## Contacts
 
----
 
 If you have suggestions for me you can find me here (Tap this icons):
 
