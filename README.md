@@ -31,8 +31,8 @@ If you are also a developer with a similar stack and a desire to do something co
 
 ## Contacts
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&weight=100&size=16&duration=3000&pause=100&color=9200FF&vCenter=true&multiline=true&repeat=false&width=800&height=50&lines=If+you+have+suggestions+for+me+you+can+find+me+here:+)](https://git.io/typing-svg)
 
-If you have suggestions for me you can find me here (Tap this icons):
 
 <div>
     <a align="center" width="100%>
