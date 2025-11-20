@@ -17,7 +17,7 @@
 
 ## Collaboration
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&weight=100&size=16&duration=3000&pause=100&color=9200FF&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=If+you+are+also+a+developer+with+a+similar+stack+and+a+desire+to+do+something+cool+together,+I+am+always+open+to+collaboration.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&weight=100&size=16&duration=3000&pause=100&color=9200FF&vCenter=true&multiline=true&repeat=false&width=800&height=20&lines=If+you+are+also+a+developer+with+a+similar+stack+and+a+desire+to+do+something+cool+together,+I+am+always+open+to+collaboration.+)](https://git.io/typing-svg)
 
 ## Community
 
