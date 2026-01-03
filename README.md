@@ -29,7 +29,7 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91.svg?logo=.Net&style=flat&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=flat&logo=blazor&logoColor=white)
 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flate&logo=selenium&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&style=flat&logoColor=white)
