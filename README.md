@@ -29,6 +29,7 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91.svg?logo=.Net&style=flat&logoColor=white)
+![.Net](https://img.shields.io/badge/ASP.NET-5C2D91.svg)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=flat&logo=blazor&logoColor=white)
 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flate&logo=selenium&logoColor=white)
