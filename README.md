@@ -104,6 +104,7 @@
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![Keycloak](https://img.shields.io/badge/Keycloak-%234D4D4D.svg?style=flat&logo=keycloak&logoColor=white)
 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
 
