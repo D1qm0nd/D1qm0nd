@@ -20,6 +20,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=GitHub&style=flat&logoColor=white)
+![TortoiseGit](https://img.shields.io/badge/TortoiseGit-%23Clojure?style=flat&logoColor=green)
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
